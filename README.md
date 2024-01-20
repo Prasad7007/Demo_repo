@@ -1,3 +1,3 @@
 # Demo_repo
-This is demo repository
+This is my demo repository
 Author - Prasad Agalave
